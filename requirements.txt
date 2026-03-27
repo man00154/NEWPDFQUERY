@@ -5,3 +5,5 @@ openpyxl>=3.1
 plotly>=5.18
 python-dateutil>=2.8
 rapidfuzz>=3.6
+python-calamine>=0.2.0
+
